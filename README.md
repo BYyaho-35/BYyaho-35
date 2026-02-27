@@ -37,18 +37,6 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BYyaho-35&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BYyaho-35&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Üzerinde Çalıştığım Alanlar
 
 - Oyun Sunucu Sistemleri
